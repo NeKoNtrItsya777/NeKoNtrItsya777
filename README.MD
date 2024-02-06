@@ -4,7 +4,7 @@
 
 -----
 
-<p align="centr"><img scr="https://www.brookings.edu/wp-content/uploads/2021/06/shutterstock_1708749826_small.jpg?w=1500" width="400"></p>
+<p align="centr"><img src="https://coinkickoff.com/wp-content/uploads/how-long-does-it-take-to-send-or-receive-bitcoin.jpg" width="400"></p>
 
 <p><a href="https://www.binance.com/ru/how-to-buy/bitcoin">ССЫЛКА</a></p>
 
